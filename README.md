@@ -10,7 +10,7 @@ cover: /assets/dinosaur.gif
 
 Very broadly, my interests lie in the histories and intersections of information science, feminist tech (or cyber/technofeminism), design, and labour.  
 
-## 🧑‍💻 Work &amp; activities
+## 🧑🏻‍💻 Work &amp; activities
 
 Since mid-2022, I've been spending most (≥40 hours/week) of my time as **Tech Weaver (Tech Lead)** in 🌱 [numun](https://numun.fund), the first dedicated fund for feminist tech in, and for the Larger World.
 
@@ -22,6 +22,8 @@ Outside of numun, I’m actively involved in the following organisations/initiat
 ## 📝 Writings
 
 These days I rarely write as much as I used to, since I interface more with terminal, codespaces, and PM tools 👻 than word editor. But every now and then I do write some articles, and you can find them indexed in [Google Scholar](https://scholar.google.com/citations?hl=en&user=ceEO7PsAAAAJ). 
+
+---
 
 ## 💟 Credits &amp; license
 
