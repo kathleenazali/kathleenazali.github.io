@@ -5,9 +5,7 @@ permalink: /
 cover: /assets/dinosaur.gif
 ---
 
-> ##### 💡 TIP
->
-> You can adjust font type, size, theme by clicking the 'A' on the top left ☝🏻
+> ☝🏻 You can adjust font type, size, theme by clicking the 'A' on the top left 
 {: .block-tip }
 
 Very broadly, my interests lie in the histories and intersections of information science, feminist tech (or cyber/technofeminism), design, and labour.  
@@ -23,7 +21,7 @@ Outside of numun, I’m actively involved in the following organisations/initiat
 
 ## 📝 Writings
 
-These days I rarely longer write as much as I used to, since I interface more with terminal, codespaces, and PM tools 👻 than word editor. But every now and then I do write some articles, and you can find them indexed in [Google Scholar](https://scholar.google.com/citations?hl=en&user=ceEO7PsAAAAJ). 
+These days I rarely write as much as I used to, since I interface more with terminal, codespaces, and PM tools 👻 than word editor. But every now and then I do write some articles, and you can find them indexed in [Google Scholar](https://scholar.google.com/citations?hl=en&user=ceEO7PsAAAAJ). 
 
 ## 💟 Credits &amp; license
 
