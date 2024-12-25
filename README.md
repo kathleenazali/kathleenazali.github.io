@@ -1,6 +1,6 @@
 ---
 layout: home
-title: >_ 🐱
+title: 🐱 kat's GitHub pages
 permalink: /
 cover: /assets/dinosaur.gif
 ---
