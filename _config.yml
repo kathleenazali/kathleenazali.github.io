@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            kat
+longtitle:        kathleen azali
+author:           kathleen azali
+email:            kat@perintis.tech
 description: >
-  Build Jekyll site with the GitBook style.
+  kat's GitHub pages
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://kathleenazali.github.io'
+baseurl:          '/'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
