@@ -2,7 +2,7 @@
 layout: home
 title: kat's GitHub pages
 permalink: /
-cover: /assets/jekyll-gitbook/dinosaur.gif
+cover: /assets/dinosaur.gif
 ---
 
 > ##### 💡 TIP
