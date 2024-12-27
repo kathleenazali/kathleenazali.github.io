@@ -8,11 +8,11 @@ cover: /assets/dinosaur.gif
 > ☝🏻 You can adjust font type, size, theme by clicking the 'A' on the top left 
 {: .block-tip }
 
-Very broadly, my interests lie in the histories and intersections of information science, feminist tech (or cyber/technofeminism), design, and labour.  
+Very broadly, my interests lie in the histories and intersections of information science, feminist technologies (incl cyber- &/ techno-feminism), design, and labour.  
 
 ## 🧑🏻‍💻 Work &amp; activities
 
-Since mid-2022, I've been spending most (≥40 hours/week) of my time as **Tech Weaver (Tech Lead)** in 🌱 [numun](https://numun.fund), the first dedicated fund for feminist tech in, and for the Larger World.
+Since mid-2022, I've been spending most (≥40 hours/week) of my time as **Tech Weaver (Tech Lead)** in 🌱 [numun](https://numun.fund), the first dedicated fund for feminist tech in, and for, the Larger World (aka the Global South).
 
 Outside of numun, I’m actively involved in the following organisations/initiatives:
 - 🛠️ [PERIN+1S](https://perintis.tech), focusing on education and development of collective information & technologies -- under which 📚[C2O](https://c2o-library.net), community library & co-working - making - hacking space, is housed.
