@@ -12,7 +12,7 @@ Very broadly, my interests lie in the histories and intersections of information
 
 ## 🧑🏻‍💻 Work &amp; activities
 
-Since mid-2022, I've been spending most (≥40 hours/week) of my time as **Tech Weaver (Tech Lead)** in 🌱 [numun](https://numun.fund), the first dedicated fund for feminist tech in, and for, the Larger World (aka the Global South).
+Since mid-2022, I've been working full-time as **Tech Weaver (Tech Lead)** in 🌱 [numun](https://numun.fund), the first dedicated fund for feminist tech in, and for, the Larger World (aka the Global South).
 
 Outside of numun, I’m actively involved in the following organisations/initiatives:
 - 🛠️ [PERIN+1S](https://perintis.tech), focusing on education and development of collective information & technologies -- under which 📚[C2O](https://c2o-library.net), community library & co-working - making - hacking space, is housed.
